@@ -1,5 +1,5 @@
 # python-env
-python environment setup (like anaconda).
+python environment manager (like anaconda).
 uses venv module
 
 ! Note if you dont setup you cant use the env command insted you will need to write "python -m env "command" " 
